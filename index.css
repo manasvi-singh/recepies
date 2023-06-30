@@ -1,7 +1,25 @@
+
 body{
-    line-height: 2.8;
+    line-height: 1.8;
+    display: block; 
+    background-color: rgb(255, 252, 237);
+}
+.container{
+    margin:0 100px;
+    padding: 1px 12px 10px 12px;
+}
+h1{
+    text-align: center;
+}
+img{
+    width:600px;
+    height:400px;
+    padding: 10px;
 }
 a{
-    color:black;
+    color:darkcyan;
     text-decoration-line: none;
+    font-size: larger;
+    font-weight: 800;
+    padding: 0 0 0 5px;
 }
